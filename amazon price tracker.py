@@ -66,7 +66,6 @@ plt.savefig('price_history.png') # Saves the plot for viewing in future
 plt.show()
 
 
-
 # function to track the price at a fixed interval and save the output in a text file
 def track_price(url, filename='price_history.txt', interval=3600):
       while True:
