@@ -1,4 +1,5 @@
-# Amazon price tracker[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# Amazon price tracker
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 This Python script tracks and monitors the price fluctuations of products listed on Amazon. It utilizes web scraping techniques to fetch the current price data and plots the price history over time using Matplotlib. This programme is ideal for users interested in monitoring price changes of specific Amazon products.
 ## Requirements
