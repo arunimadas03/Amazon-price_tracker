@@ -26,7 +26,7 @@ def get_soup_retry(url):
         soup = BeautifulSoup(page.content, 'html.parser')
         if 'captcha' in str(soup):
             uag_random = fake.user_agent()
-            print(f'\rBot has been detected... retrying ... use new identity: {uag_random} ', end='', flush=True)
+            print(f'\rBot is detected...retrying: {uag_random} ', end='', flush=True)
             continue
         else:
             print('Bot bypassed')
