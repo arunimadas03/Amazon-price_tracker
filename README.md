@@ -43,5 +43,5 @@ Additionally install the required Python libraries using pip:
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
 ## 🚀 About Me
-I'm a microbiology student. i have keen interest in python programming.
+I'm a microbiology student. i have keen interest in python and programming in general.
 
